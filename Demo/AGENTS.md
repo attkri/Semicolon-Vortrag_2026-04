@@ -18,3 +18,9 @@ Dieses Verzeichnis ist ein Testszenario für einen Live-Vortrag. Unter `Archiv` 
 - Robuste Fehlerbehandlung und Logging.
 - Idempotent: Mehrfaches Ausführen darf keinen Schaden anrichten (bestehende Symlinks erkennen und überspringen).
 - Ergebnisse nicht stillschweigend überschreiben.
+
+## Anhang
+
+**Dokumenten-Schema:** [OpenCode AGENTS.md](https://opencode.ai/docs/rules/#manual-instructions-in-agentsmd)
+**Autor:** [Attila Krick](https://attilakrick.com/)
+**Stand:** 2026-02-20

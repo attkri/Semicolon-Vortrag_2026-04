@@ -2,7 +2,7 @@
 
 ## Überblick
 
-Repository für den GFU-Semicolon-Vortrag **„PowerShell & KI – Assistenz und Agenten im Admin-Alltag"** am 21. April 2026 (online, 60 Minuten).
+Repository für den GFU-Semicolon-Vortrag **"PowerShell & KI – Assistenz und Agenten im Admin-Alltag"** am 21. April 2026 (online, 60 Minuten).
 
 Der Vortrag zeigt live, wie ein PowerShell-Duplikat-Finder mit drei verschiedenen KI-Werkzeugen entsteht – VSCode + Copilot, OpenCode (Terminal-Agent) und OpenAI Codex (Cloud-Agent). Dabei werden Ergebnis, Aufwand, Kosten und Datenschutz direkt verglichen.
 
@@ -36,4 +36,5 @@ Das Repo enthält die Demo-Ordnerstruktur, das Init-Skript zum Aufbau des Testsz
 .\Demo\Init-Demo.ps1
 ```
 
-Anschließend den gewünschten KI-Agenten auf den Ordner `Demo\Archiv` loslassen – die Prompts stehen in `Vortrag.md` (Abschnitt „Prompts (Copy & Paste je Tool)").
+Anschließend den gewünschten KI-Agenten auf den Ordner `Demo\Archiv` loslassen – die Prompts stehen in `Vortrag.md` (Abschnitt "Prompts (Copy & Paste je Tool)").
+

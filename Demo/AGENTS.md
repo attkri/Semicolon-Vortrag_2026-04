@@ -19,8 +19,8 @@ Dieses Verzeichnis ist ein Testszenario für einen Live-Vortrag. Unter `Archiv` 
 - Idempotent: Mehrfaches Ausführen darf keinen Schaden anrichten (bestehende Symlinks erkennen und überspringen).
 - Ergebnisse nicht stillschweigend überschreiben.
 
-## Anhang
+## Metadaten
 
 **Dokumenten-Schema:** [OpenCode AGENTS.md](https://opencode.ai/docs/rules/#manual-instructions-in-agentsmd)
-**Autor:** [Attila Krick](https://attilakrick.com/)
 **Stand:** 2026-02-20
+**Autor:** [Attila Krick](https://attilakrick.com/)

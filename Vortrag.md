@@ -40,7 +40,7 @@
 
 **Warum das für Admins relevant ist:**
 
-Agenten versprechen „Hands-off-Automatisierung" – aber wer kontrolliert, was der Agent tut?
+Agenten versprechen "Hands-off-Automatisierung" – aber wer kontrolliert, was der Agent tut?
 
 ---
 
@@ -273,10 +273,10 @@ Teste das Skript.
 >
 > Aber genau das ist auch das Risiko: **Dieser Agent hat Zugriff auf alles, was ich habe.**
 
-#### Erkenntnis: „Teste das Skript" reicht nicht
+#### Erkenntnis: "Teste das Skript" reicht nicht
 
 1. Ein Agent braucht klare Testkriterien, sonst testet er irgendwas – oder gar nichts.
-2. Codex konnte mangels PowerShell gar nicht testen, VSCode-Agent scheiterte an der Umgebung, und selbst OpenCode testete nur „läuft es durch?" statt „stimmt das Ergebnis?".
+2. Codex konnte mangels PowerShell gar nicht testen, VSCode-Agent scheiterte an der Umgebung, und selbst OpenCode testete nur "läuft es durch?" statt "stimmt das Ergebnis?".
 
 **Bessere Formulierung im Prompt:**
 
@@ -352,7 +352,7 @@ Führe das Skript aus. Prüfe danach:
 - Agenten in Sandboxen oder Containern laufen lassen, nie direkt auf Produktivsystemen.
 - Sensible Pfade (z. B. `C:\Users`, Netzlaufwerke) explizit aus dem Agent-Workspace ausschließen.
 - Bei API-Nutzung: Kostenlimits setzen und Verbrauch überwachen.
-- Prompts mit korrekten Leitplanken formulieren: klare Grenzen setzen, was der Agent darf und was nicht (z. B. „keine Dateien löschen", „nur lesender Zugriff", „nur im Ordner X arbeiten").
+- Prompts mit korrekten Leitplanken formulieren: klare Grenzen setzen, was der Agent darf und was nicht (z. B. "keine Dateien löschen", "nur lesender Zugriff", "nur im Ordner X arbeiten").
 
 ### 6. Wrap-up
 
@@ -370,3 +370,4 @@ Führe das Skript aus. Prüfe danach:
 
 - S2241 – PowerShell Praxis-Workshop für Einsteiger
 - S2242 – PowerShell Praxis-Workshop für Fortgeschrittene
+
